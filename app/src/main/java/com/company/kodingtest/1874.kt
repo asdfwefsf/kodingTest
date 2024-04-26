@@ -1,4 +1,4 @@
-package com.company
+package com.company.kodingtest
 
 import java.lang.StringBuilder
 import java.util.Stack
